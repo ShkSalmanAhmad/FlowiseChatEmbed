@@ -14,7 +14,7 @@ type Props = {
 }
 
 const defaultBackgroundColor = '#ffffff'
-const defaultTextColor = '#303235'
+const defaultTextColor = '#256ad0'
 
 export const TextInput = (props: Props) => {
     const [inputValue, setInputValue] = createSignal(props.defaultValue ?? '')
