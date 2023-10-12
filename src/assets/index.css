@@ -171,7 +171,7 @@
   }
   
   .chatbot-host-bubble {
-    color: var(--chatbot-host-bubble-color);
+    color: #1a62cd;
     background-color: #f7f8ff;
   }
   
