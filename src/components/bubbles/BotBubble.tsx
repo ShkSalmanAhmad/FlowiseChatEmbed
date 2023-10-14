@@ -10,6 +10,7 @@ type Props = {
   textColor?: string
 }
 
+//Salman, change here to change bubble color for the chatbot's messages 
 const defaultBackgroundColor = '#2dd144'
 const defaultTextColor = '#114593'
 
